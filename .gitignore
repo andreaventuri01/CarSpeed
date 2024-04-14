@@ -1,0 +1,9 @@
+__pycache__/*
+config/*
+eval/*
+segmentation_model/__pycache__/*
+utils/__pycache__/*
+videos/* 
+pretrained_models/*
+
+report.pdf
