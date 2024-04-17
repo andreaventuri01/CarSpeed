@@ -11,7 +11,7 @@ Nevertheless, the goals of the project were multiple:
 
 The entire work is based on the DR(eye)VE dataset available here: [dataset page](https://aimagelab.ing.unimore.it/imagelab/page.asp?IdPage=8) 
 
-**DISCLAIMER #1: This is a Master's Degree class project, and such was its only purpose. Surely, there are thousands of better ways to do this kind of project. Moreover, it dates back to 2019 (perhaps even 2018). Hence, the pretrained model employed here are certainly obsolete! Eventually, I will update everything, but the process will certainly take a long time (feel free to fork and change any dumb line of code that we wrote back in the days!)**
+**DISCLAIMER #1: This is a Master's Degree class project, and such was its only purpose. Surely, there are thousands of better ways to do this kind of project. Moreover, it dates back to 2019 (perhaps even 2018). Hence, the pretrained models employed here are certainly obsolete! Eventually, I will update everything, but the process will certainly take a long time (feel free to fork and change any dumb line of code that we wrote back in the days!)**
 
 ### EXAMPLE OUTPUT
 [![Output Example](https://img.youtube.com/vi/G6mmCd5I_4E/0.jpg)](https://www.youtube.com/watch?v=G6mmCd5I_4E)
